@@ -27,9 +27,9 @@ Esito dopo la modifica e spiegazione della correzione: il programma stampava cor
 
 Quali file ho incluso nel commit e perché:abbiamo fatto un commit di hello.c, per "fotografare" le modifiche fatte(aggiunta dei nostri nomi) e abbiamo fatto push su github
 
-Come ho verificato che la versione provata sia presente su GitHub: ho controllato dal browser
+Come ho verificato che la versione provata sia presente su GitHub: con  git log
 
-Che cosa ho osservato prima e dopo `git pull`, e perché non serve un nuovo clone:
+Che cosa ho osservato prima e dopo `git pull`, e perché non serve un nuovo clone: nulla perche' lavoro su uno stesso computer e ho appena fatto push.
 
 ## Step 2 — Eco: prima prova
 

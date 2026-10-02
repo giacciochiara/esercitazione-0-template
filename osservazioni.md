@@ -29,7 +29,7 @@ Quali file ho incluso nel commit e perché:abbiamo fatto un commit di hello.c e 
 
 Come ho verificato che la versione provata sia presente su GitHub: con  git log e gurdando sulle mie cartellle dal browser
 
-Che cosa ho osservato prima e dopo `git pull`, e perché non serve un nuovo clone: nulla perche' lavoro su uno stesso computer e ho appena fatto push, potrei solo pullare un commit precedente .
+Che cosa ho osservato prima e dopo `git pull`, e perché non serve un nuovo clone: ho modificato il file  dal browser e pullandole le ho ritrovate sul terminale   .
 
 ## Step 2 — Eco: prima prova
 
